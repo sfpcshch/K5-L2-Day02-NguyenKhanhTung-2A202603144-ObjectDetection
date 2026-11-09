@@ -5,7 +5,7 @@
 - Họ tên: Nguyễn Khánh Tùng
 - MSSV: 2A202603144
 - Email: sfpcshch@gmail.com
-- Lớp: L2
+- Lớp: K5 Level 2
 - Link repo bài làm: https://github.com/sfpcshch/K5-L2-Day02-NguyenKhanhTung-2A202603144-ObjectDetection
 - Link Colab / Môi trường chạy: https://colab.research.google.com/github/sfpcshch/K5-L2-Day02-NguyenKhanhTung-2A202603144-ObjectDetection/blob/main/notebooks/day2_annotation_to_yolo.ipynb (kèm môi trường huấn luyện GPU cục bộ do Colab gặp sự cố cấp phát runtime hệ thống)
 
